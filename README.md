@@ -28,12 +28,5 @@ No database, login, server-side code, external JavaScript library, or build proc
 - About the developer, academic program, introduction, and career goals
 - Responsive desktop/mobile layout and dark/light themes
 
-## Before submission
-- Confirm that the name and course information in the About section are correct.
-- Add a specific personal reflection or examples from your own learning if your instructor expects these.
-- Recheck certification details and current exam objectives using each issuer's official website.
-- Capture screenshots on your own browser if you need evidence from the exact device/browser used for demonstration.
-- For an online URL, deploy the folder to an approved static host. For a local demonstration, keep the complete folder intact and open `index.html`.
-
 ## External sources
 Certification pages are linked directly from CompTIA, Red Hat, Microsoft Learn, and Linux Professional Institute. Learning resources link to Red Hat Documentation, Microsoft Learn, Linux Journey, CompTIA, Ubuntu Server documentation, and PowerShell documentation.
